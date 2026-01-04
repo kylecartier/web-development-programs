@@ -1,1 +1,1 @@
-This will be implied for Haskell progrmas.
+This will be implied for Haskell programs.
