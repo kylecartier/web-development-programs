@@ -1,1 +1,1 @@
-This will be implied for Haskell programs.
+This will be implied for rust programs.
