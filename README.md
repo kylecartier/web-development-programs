@@ -1,1 +1,1 @@
-This will be implied for rust programs.
+This will be implied for web development programs.
